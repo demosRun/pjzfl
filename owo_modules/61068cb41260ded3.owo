@@ -1,0 +1,88 @@
+<template lang="pug">
+.left-right-item.w1000
+  .left-box
+    plug(_name="module12" _src="https://template.owo.ink/b37c77c240b70a81.owo")
+  .text-box
+    h2 习近平这样描述40年改革开放的中国力量
+    p 从农村到城市，从试点到推广，从经济体制改革到全面深化改革，40年众志成城，40年砥砺奋进，40年春风化雨，习近平在博鳌亚洲论坛2018年年会上指出：“40年来，中国人民充分显示了中国力量。
+    ul
+      li
+        a(href="" target="_blank") 壮阔东方潮 奋进新时代：创新绿洲生机勃勃
+      li
+        a(href="" target="_blank") 特稿：探寻深圳的创新基因
+      li
+        a(href="" target="_blank") 从深圳发展奇迹看中国改革开放40年
+      li
+        a(href="" target="_blank") 打开对外开放新局面：为百姓餐桌提供更多选择
+      li
+        a(href="" target="_blank") 人民日报：改革开放再出发
+      li
+        a(href="" target="_blank") 幸福感，在改革的春风里成长
+</template>
+
+
+<style lang="less">
+.left-box {
+  width: 555px;
+  height: 410px;
+  position: absolute;
+  z-index: 9;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+.left-right-item {
+  height: 460px;
+  margin: 60px 0;
+  position: relative;
+  img {
+    height: 420px;
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+  }
+  .text-box {
+    background-color: #3571bc;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 40px;
+    width: 390px;
+    height: 380px;
+    color: white;
+    p {
+      color: white;
+      margin: 15px 0;
+      font-size: 16px;
+      line-height: 26px;
+      padding: 15px 0;
+      border-bottom: 1px solid white;
+    }
+    ul {
+      height: 170px;
+      overflow: hidden;
+      li {
+        background-repeat: no-repeat;
+        background-position: 3px center;
+        color: white;
+        font-size: 17px;
+        line-height: 34px;
+        a {
+          color: white;
+        }
+      }
+    }
+    h2 {
+      font-size: 26px;
+      font-weight: normal;
+    }
+  }
+}
+</style>

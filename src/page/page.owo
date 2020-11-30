@@ -1,0 +1,119 @@
+<template lang="pug">
+.home
+  img.main-bg(src="@|bg.jpg|")
+  .conn
+    plug(_name="module177" _src="https://template.owo.ink/61068cb41260ded3.owo")
+    //- 标题
+    .title-bg
+      span 行动篇
+    .card-box.clear
+      .card-item.fl
+        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        h1 主标题
+        h2 副标题副标题副标题副标题副标题
+        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+      .card-item.fl
+        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        h1 主标题
+        h2 副标题副标题副标题副标题副标题
+        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+      .card-item.fl
+        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        h1 主标题
+        h2 副标题副标题副标题副标题副标题
+        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+      .card-item.fl
+        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        h1 主标题
+        h2 副标题副标题副标题副标题副标题
+        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+      .card-item.fl
+        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        h1 主标题
+        h2 副标题副标题副标题副标题副标题
+        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+      .card-item.fl
+        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        h1 主标题
+        h2 副标题副标题副标题副标题副标题
+        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+</template>
+
+<script>
+  module.exports = {
+    created: function () {
+      console.log('ss')
+    }
+  }
+</script>
+
+
+<style lang="less">
+.main-bg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.conn {
+  margin-top: -200px;
+}
+.title-bg {
+  background-image: url('@|title-bg.png|');
+  width: 995px;
+  height: 67px;
+  margin: 30px auto;
+  margin-top: 60px;
+  position: relative;
+  span {
+    height: 67px;
+    font-size: 40px;
+    line-height: 67px;
+    position: absolute;
+    left: 566px;
+    width: 207px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #1da6d2;
+  }
+}
+.card-box {
+  width: 1038px;
+  margin: 0 auto;
+  .card-item {
+    width: 260px;
+    height: 510px;
+    border: 3px solid #bf3833;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px 20px;
+    img {
+      width: 250px;
+      height: 200px;
+      display: block;
+      margin: 0 auto;
+      border-radius: 5px;
+      box-shadow: 1px 2px 5px #716767;
+    }
+    h1 {
+      text-align: center;
+      font-size: 22px;
+      line-height: 28px;
+      margin-top: 15px;
+    }
+    h2 {
+      font-size: 16px;
+      text-align: center;
+      border-bottom: 1px solid #bf3833;
+      line-height: 32px;
+      padding-bottom: 5px;
+    }
+    p {
+      font-size: 16px;
+      line-height: 24px;
+      margin-top: 10px;
+      text-indent: 2em;
+    }
+  }
+}
+</style>
