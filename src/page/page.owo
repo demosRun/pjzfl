@@ -37,6 +37,54 @@
         h1 主标题
         h2 副标题副标题副标题副标题副标题
         p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+    //- 标题
+    .title-bg
+      span 模式篇
+    .video-card.card-panel.clear
+      .left.fl
+        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+      .right.fr
+        h1 主标题主标题主标题
+        p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+    .tab-card.clear
+      .tab-bar.clear
+        .tab-bar-item.fl 特色扶贫
+        .tab-bar-item.fl 青海样本
+        .tab-bar-item.fl 情牵两镇
+        .tab-bar-item.fl 金山模式
+      ul.tab-conn
+        li.clear
+          .left.fl
+            img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .right.fr
+            h2 主标题主标题主标题主标题主标题主标题主标题主标题主标题
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+            .line
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+        li.clear
+          .left.fl
+            img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .right.fr
+            h2 主标题主标题主标题主标题主标题主标题主标题主标题主标题
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+            .line
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+        li.clear
+          .left.fl
+            img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .right.fr
+            h2 主标题主标题主标题主标题主标题主标题主标题主标题主标题
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+            .line
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+        li.clear
+          .left.fl
+            img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .right.fr
+            h2 主标题主标题主标题主标题主标题主标题主标题主标题主标题
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+            .line
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
 </template>
 
 <script>
@@ -83,7 +131,7 @@
   .card-item {
     width: 260px;
     height: 510px;
-    border: 3px solid #bf3833;
+    border: 3px solid #3778c1;
     border-radius: 15px;
     padding: 20px;
     margin: 10px 20px;
@@ -104,7 +152,7 @@
     h2 {
       font-size: 16px;
       text-align: center;
-      border-bottom: 1px solid #bf3833;
+      border-bottom: 1px solid #3778c1;
       line-height: 32px;
       padding-bottom: 5px;
     }
@@ -114,6 +162,93 @@
       margin-top: 10px;
       text-indent: 2em;
     }
+  }
+}
+.card-panel {
+  width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 3px solid #3678c1;
+}
+.tab-card {
+  width: 1000px;
+  margin: 0 auto;
+  border: 3px solid #3678c1;
+  .tab-bar {
+    .tab-bar-item {
+      width: 25%;
+      background-color: #eeeeee;
+      height: 50px;
+      line-height: 50px;
+      text-align: center;
+      font-size: 20px;
+      color: #3275bf;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .active {
+      background-color: #3275bf;
+      color: white;
+    }
+  }
+}
+.video-card {
+  .left {
+    width: 525px;
+    height: 340px;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .right {
+    width: 400px;
+    h1 {
+      font-size: 26px;
+      border-bottom: 2px solid black;
+      padding-bottom: 15px;
+    }
+    p {
+      font-size: 18px;
+      text-indent: 2em;
+      padding-top: 15px;
+      line-height: 32px;
+    }
+  }
+}
+.left {
+  border: 5px solid #eeeeee;
+}
+.tab-card {
+  margin-top: 40px;
+}
+.tab-conn {
+  padding: 20px;
+  .left {
+    width: 500px;
+    height: 300px;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .right {
+    width: 420px;
+  }
+  h2 {
+    font-size: 24px;
+    line-height: 34px;
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 28px;
+  }
+  .line {
+    height: 2px;
+    background-color: #bfbfbf;
+    margin-bottom: 10px;
   }
 }
 </style>
