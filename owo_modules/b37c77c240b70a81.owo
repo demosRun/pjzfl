@@ -1,12 +1,5 @@
 <template lang="pug">
-.swiper-box
-  .swiper-container.clear
-    .swiper-wrapper
-      .swiper-slide(:for="data._swiperBoxList")
-        a(href="#")
-          img(src="{value.src}" width="550" height="410")
-          .text {value.text}
-  .pagination
+.swiper-box-2
 </template>
 
 <script>
@@ -62,35 +55,5 @@
   }
 }
 
-.swiper-pagination-switch {
-  width: 50px;
-  height: 3px;
-  margin: 0 10px;
-  display: inline-block;
-  border-radius: 3px;
-  background-color: #b1b1b1;
-  position: relative;
-  cursor: pointer;
-  float: left;
-}
-.swiper-active-switch {
-  background-color: #168cdb;
-}
-a {
-  text-decoration: none;
-}
-.swiper-slide {
-  position: relative;
-}
-.pagination{
-  position: absolute;
-  bottom: -25px;
-  left: 0;
-  right: 0;
-  height: 10px;
-  text-align: center;
-  align-items: center;
-  display: flex;
-  justify-content: center;
-}
+
 </style>

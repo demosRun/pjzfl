@@ -2,6 +2,8 @@
 .home
   img.main-bg(src="@|bg.jpg|")
   .conn
+    .title-bg
+      span 新闻聚焦
     plug(_name="module177" _src="https://template.owo.ink/61068cb41260ded3.owo")
     //- 标题
     .title-bg
@@ -45,21 +47,79 @@
           p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
     //- 标题
     .title-bg
-      span 模式篇
-    .video-card.card-panel.clear
-      .left.fl
-        a(href="#" target="_blank")
-          img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
-      .right.fr
-        h1
-          a(href="#" target="_blank") 金融业助力脱贫攻坚 中国太保给出样本
-        p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+      span 分行风采
+    .video-card.card-panel
+      .pagination
+      .swiper-container
+        .swiper-wrapper
+          .swiper-slide
+            li.clear
+              .left
+                a(href="#" target="_blank")
+                  img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+              .right
+                h1
+                  a(href="#" target="_blank") 金融业助力脱贫攻坚 中国太保给出样本
+                p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+                  a(href="#") [查看更多]
+            li.clear
+              .left
+                a(href="#" target="_blank")
+                  img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+              .right
+                h1
+                  a(href="#" target="_blank") 金融业助力脱贫攻坚 中国太保给出样本
+                p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+                  a(href="#") [查看更多]
+          .swiper-slide
+            li.clear
+              .left
+                a(href="#" target="_blank")
+                  img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+              .right
+                h1
+                  a(href="#" target="_blank") 金融业助力脱贫攻坚 中国太保给出样本
+                p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+                  a(href="#") [查看更多]
+            li.clear
+              .left
+                a(href="#" target="_blank")
+                  img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+              .right
+                h1
+                  a(href="#" target="_blank") 金融业助力脱贫攻坚 中国太保给出样本
+                p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+                  a(href="#") [查看更多]
+          .swiper-slide
+            li.clear
+              .left
+                a(href="#" target="_blank")
+                  img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+              .right
+                h1
+                  a(href="#" target="_blank") 金融业助力脱贫攻坚 中国太保给出样本
+                p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+                  a(href="#") [查看更多]
+            li.clear
+              .left
+                a(href="#" target="_blank")
+                  img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+              .right
+                h1
+                  a(href="#" target="_blank") 金融业助力脱贫攻坚 中国太保给出样本
+                p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+                  a(href="#") [查看更多]
+    .title-bg
+      span 扶贫印记
     .tab-card.clear
       .tab-bar.clear
-        .tab-bar-item.fl 特色扶贫
-        .tab-bar-item.fl 青海样本
-        .tab-bar-item.fl 情牵两镇
-        .tab-bar-item.fl 金山模式
+        .ro-box.clear
+          .tab-bar-item.fl 特色扶贫
+          .tab-bar-item.fl 青海样本
+          .tab-bar-item.fl 情牵两镇
+          .tab-bar-item.fl 金山模式
+          .tab-bar-item.fl 金山模式2
+          .tab-bar-item.fl 金山模式3
       ul.tab-conn
         li.clear
           .left.fl
@@ -100,9 +160,29 @@
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
             .line
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+        li.clear
+          .left.fl
+            a(href="#" target="_blank")
+              img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .right.fr
+            h2
+              a(href="#" target="_blank") 主标题主标题主标题主标题主标题主标题主标题主标题主标题4
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+            .line
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+        li.clear
+          .left.fl
+            a(href="#" target="_blank")
+              img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .right.fr
+            h2
+              a(href="#" target="_blank") 主标题主标题主标题主标题主标题主标题主标题主标题主标题4
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+            .line
+            p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
     //- 标题
     .title-bg
-      span 图文篇
+      span 图片掠影
     .image-box
       .roll-box.clear
         .image-box-item.fl.clear
@@ -159,7 +239,6 @@
   height: auto;
 }
 .conn {
-  margin-top: -200px;
 }
 .title-bg {
   background-image: url('@|title-bg.png|');
@@ -245,14 +324,19 @@
   margin: 0 auto;
   padding: 20px;
   border: 3px solid #3678c1;
+  background-color: white;
+  height: 550px;
+  overflow: hidden;
+  position: relative;
 }
 .tab-card {
   width: 1000px;
   margin: 0 auto;
   border: 3px solid #3678c1;
   .tab-bar {
+    overflow: auto;
     .tab-bar-item {
-      width: 25%;
+      width: 250px;
       background-color: #eeeeee;
       height: 50px;
       line-height: 50px;
@@ -269,22 +353,35 @@
   }
 }
 .video-card {
+  li {
+    height: 280px;
+  }
+  li:nth-child(even){
+    .left {
+      float: right;
+    }
+    .right {
+      float: left;
+    }
+  }
   .left {
-    width: 525px;
-    height: 340px;
+    width: 380px;
+    height: 230px;
+    float: left;
     img {
       width: 100%;
       height: 100%;
     }
   }
   .right {
-    width: 400px;
+    width: 540px;
+    float: right;
     a {
-      color: black;
+      color: #333;
     }
     h1 {
       font-size: 22px;
-      border-bottom: 2px solid black;
+      border-bottom: 2px solid #ccc;
       padding-bottom: 15px;
     }
     p {
@@ -292,8 +389,15 @@
       text-indent: 2em;
       padding-top: 15px;
       line-height: 32px;
-      height: 280px;
+      height: 180px;
       overflow: auto;
+      a {
+        color: #3275bf;
+        font-weight: bold;
+        margin: 0 10px;
+        text-decoration: revert;
+        font-size: 14px;
+      }
     }
   }
 }
@@ -375,5 +479,8 @@
     width: 100%;
     height: 100%;
   }
+}
+.ro-box {
+  padding-bottom: 1px;
 }
 </style>

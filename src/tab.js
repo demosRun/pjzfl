@@ -29,7 +29,7 @@ function tabIt(tabBox, connBox, eventName) {
 }
 
 tabIt.prototype.showIndex = function (activeIndex) {
-  // console.log(activeIndex)
+  console.log(activeIndex)
   for (var index = 0; index < this.connBox.length; index++) {
     var element = this.connBox[index];
     if (activeIndex == index) {
