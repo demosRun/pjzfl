@@ -128,3 +128,21 @@ h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, bu
   display: flex;
   justify-content: center;
 }
+
+.left-right-item .left-box p {
+  width: 90%;
+  line-height: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+
+.left-right-item .left-box p a {
+  text-decoration: underline;
+  margin-right: 10px;
+  background-image: url('../resource/video.png');
+  background-repeat: no-repeat;
+  background-size: 18px;
+  padding-left: 23px;
+  background-position: center left;
+  display: inline-block;
+}
