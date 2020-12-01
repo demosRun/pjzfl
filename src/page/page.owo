@@ -5,46 +5,54 @@
     plug(_name="module177" _src="https://template.owo.ink/61068cb41260ded3.owo")
     //- 标题
     .title-bg
-      span 行动篇
+      span 小康路上
     .card-box.clear
       .card-item.fl
-        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
-        h1 主标题
-        h2 副标题副标题副标题副标题副标题
-        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+        a(href="#" target="_blank")
+          img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          h1 主标题
+          h2 副标题副标题副标题副标题副标题
+          p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
       .card-item.fl
-        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
-        h1 主标题
-        h2 副标题副标题副标题副标题副标题
-        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+        a(href="#" target="_blank")
+          img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          h1 主标题
+          h2 副标题副标题副标题副标题副标题
+          p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
       .card-item.fl
-        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
-        h1 主标题
-        h2 副标题副标题副标题副标题副标题
-        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+        a(href="#" target="_blank")
+          img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          h1 主标题
+          h2 副标题副标题副标题副标题副标题
+          p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
       .card-item.fl
-        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
-        h1 主标题
-        h2 副标题副标题副标题副标题副标题
-        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+        a(href="#" target="_blank")
+          img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          h1 主标题
+          h2 副标题副标题副标题副标题副标题
+          p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
       .card-item.fl
-        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
-        h1 主标题
-        h2 副标题副标题副标题副标题副标题
-        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+        a(href="#" target="_blank")
+          img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          h1 主标题
+          h2 副标题副标题副标题副标题副标题
+          p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
       .card-item.fl
-        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
-        h1 主标题
-        h2 副标题副标题副标题副标题副标题
-        p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
+        a(href="#" target="_blank")
+          img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          h1 主标题
+          h2 副标题副标题副标题副标题副标题
+          p 今年9月至11月，全国人大常委会公共文化服务保障法执法检查组分赴河北、山西、内蒙古、安徽、河南、青海等6省份进行检查，同时委托吉林、上海、浙江、海南、甘肃5个省级人大常委会对本行政区域内公共文化服务保障法的实施情况进行检查。执法检查组紧扣法律规定，坚持问题导向，着力增强检查实效。
     //- 标题
     .title-bg
       span 模式篇
     .video-card.card-panel.clear
       .left.fl
-        img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        a(href="#" target="_blank")
+          img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
       .right.fr
-        h1 主标题主标题主标题
+        h1
+          a(href="#" target="_blank") 金融业助力脱贫攻坚 中国太保给出样本
         p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
     .tab-card.clear
       .tab-bar.clear
@@ -55,9 +63,11 @@
       ul.tab-conn
         li.clear
           .left.fl
-            img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+            a(href="#" target="_blank")
+              img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
           .right.fr
-            h2 主标题主标题主标题主标题主标题主标题主标题主标题主标题
+            h2
+              a(href="#" target="_blank") 主标题主标题主标题主标题主标题主标题主标题主标题主标题1
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
             .line
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
@@ -65,26 +75,72 @@
           .left.fl
             img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
           .right.fr
-            h2 主标题主标题主标题主标题主标题主标题主标题主标题主标题
+            h2
+              a(href="#" target="_blank") 主标题主标题主标题主标题主标题主标题主标题主标题主标题2
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
             .line
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
         li.clear
           .left.fl
-            img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+            a(href="#" target="_blank")
+              img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
           .right.fr
-            h2 主标题主标题主标题主标题主标题主标题主标题主标题主标题
+            h2
+              a(href="#" target="_blank") 主标题主标题主标题主标题主标题主标题主标题主标题主标题3
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
             .line
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
         li.clear
           .left.fl
-            img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+            a(href="#" target="_blank")
+              img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
           .right.fr
-            h2 主标题主标题主标题主标题主标题主标题主标题主标题主标题
+            h2
+              a(href="#" target="_blank") 主标题主标题主标题主标题主标题主标题主标题主标题主标题4
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
             .line
             p 文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容文字内容
+    //- 标题
+    .title-bg
+      span 图文篇
+    .image-box
+      .roll-box.clear
+        .image-box-item.fl.clear
+          .hover(o-hover="grow")
+            a(href="#" target="_blank")
+              img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        .image-box-item.fl.clear
+          .img-1-1.fl
+            .hover(o-hover="grow")
+              a(href="#" target="_blank")
+                img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .img-1-1.fl
+            .hover(o-hover="grow")
+              a(href="#" target="_blank")
+                img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .h15
+          .img-2-1.fl
+            .hover(o-hover="grow")
+              a(href="#" target="_blank")
+                img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+        .image-box-item.fl.clear
+          .img-1-1.fl
+            .hover(o-hover="grow")
+              a(href="#" target="_blank")
+                img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .img-1-1.fl
+            .hover(o-hover="grow")
+              a(href="#" target="_blank")
+                img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .h15
+          .img-1-1.fl
+            .hover(o-hover="grow")
+              a(href="#" target="_blank")
+                img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
+          .img-1-1.fl
+            .hover(o-hover="grow")
+              a(href="#" target="_blank")
+                img(src="http://www.people.com.cn/NMediaFile/2020/1130/MAIN202011301040056902647104062.jpg")
 </template>
 
 <script>
@@ -135,6 +191,10 @@
     border-radius: 15px;
     padding: 20px;
     margin: 10px 20px;
+    background-color: white;
+    a, a:hover {
+      color: black;
+    }
     img {
       width: 250px;
       height: 200px;
@@ -157,10 +217,26 @@
       padding-bottom: 5px;
     }
     p {
-      font-size: 16px;
+      font-size: 15px;
       line-height: 24px;
       margin-top: 10px;
       text-indent: 2em;
+      height: 220px;
+      overflow: auto;
+    }
+  }
+  .card-item:hover {
+    background-color: #3778c1;
+    color: white;
+    a {
+      color: white;
+      text-decoration: none;
+    }
+    h2 {
+      border-bottom: 1px solid white;
+    }
+    img {
+      box-shadow: 1px 2px 5px #251d1d;
     }
   }
 }
@@ -203,16 +279,21 @@
   }
   .right {
     width: 400px;
+    a {
+      color: black;
+    }
     h1 {
-      font-size: 26px;
+      font-size: 22px;
       border-bottom: 2px solid black;
       padding-bottom: 15px;
     }
     p {
-      font-size: 18px;
+      font-size: 16px;
       text-indent: 2em;
       padding-top: 15px;
       line-height: 32px;
+      height: 280px;
+      overflow: auto;
     }
   }
 }
@@ -234,6 +315,12 @@
   }
   .right {
     width: 420px;
+    height: 340px;
+    overflow: auto;
+    padding-right: 5px;
+  }
+  a, a:hover {
+    color: black;
   }
   h2 {
     font-size: 24px;
@@ -249,6 +336,44 @@
     height: 2px;
     background-color: #bfbfbf;
     margin-bottom: 10px;
+  }
+}
+.image-box {
+  width: 1000px;
+  margin: 0 auto;
+  overflow: auto;
+  margin-bottom: 40px;
+  padding-bottom: 10px;
+  .image-box-item {
+    width: 465px;
+    height: 449px;
+    overflow: hidden;
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .img-1-1 {
+    width: 217px;
+    height: 217px;
+    margin-left: 15px;
+    overflow: hidden;
+  }
+  .h15 {
+    height: 15px;
+    float: left;
+    width: 100%;
+  }
+  .img-2-1 {
+    width: 449px;
+    height: 217px;
+    margin-left: 15px;
+    overflow: hidden;
+  }
+  .hover {
+    width: 100%;
+    height: 100%;
   }
 }
 </style>

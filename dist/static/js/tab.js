@@ -1,18 +1,26 @@
-function tabIt(tabBox, connBox) {
-  this.tabBox = tabBox.children
-  if (connBox.constructor == Object) {
-    this.connBox = connBox.children
-  } else {
-    this.connBox = connBox
+function tabIt(tabBox, connBox, eventName) {
+  var eventName = eventName || 'click'
+  var tabBoxType = Object.prototype.toString.call(tabBox)
+  var connBoxType = Object.prototype.toString.call(connBox)
+  this.tabBox = tabBox
+  this.connBox = connBox
+  // 判断是否是dom节点
+  
+  if (tabBoxType == '[object HTMLDivElement]') {
+    this.tabBox = tabBox.children
   }
-  console.log(this.connBox)
+  
+  if (connBoxType == '[object HTMLDivElement]') {
+    this.connBox = connBox.children
+  }
+  // console.log(this.connBox)
   // 默认选中第一项
   this.showIndex(0)
   for (var index = 0; index < this.tabBox.length; index++) {
     var element = this.tabBox[index];
     var _this = this
     element.setAttribute('tabind', index)
-    element.addEventListener('click', function () {
+    element.addEventListener(eventName, function() {
       var activeIndex = parseInt(this.getAttribute('tabind'))
       // console.log(this, _this)
       _this.showIndex(activeIndex)
@@ -21,7 +29,7 @@ function tabIt(tabBox, connBox) {
 }
 
 tabIt.prototype.showIndex = function (activeIndex) {
-  console.log(activeIndex)
+  // console.log(activeIndex)
   for (var index = 0; index < this.connBox.length; index++) {
     var element = this.connBox[index];
     if (activeIndex == index) {

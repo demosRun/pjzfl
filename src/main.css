@@ -11,15 +11,17 @@ body, html {
   overflow-x: hidden;
 }
 html {
-  background-color: white;
-  background-repeat: no-repeat;
-  background-position: center top;
-  background-size: cover;
+  background-image: url('@|p2bg.jpg|');
 }
 body, html, .page {
   padding: 0;
   margin: 0;
   position: relative;
+}
+body {
+  background-image: url('http://money.people.com.cn/img/MAIN/2020/09/120500/images/bg4.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 h1, h2, h3, h4, h5, input {
   margin: 0;
@@ -80,4 +82,17 @@ h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, bu
 
 .pc .no-pc, .phone .no-phone {
   display: none;
+}
+
+::-webkit-scrollbar{
+  width: 6px;/*竖向滚动条的宽度*/
+  height: 6px;/*横向滚动条的高度*/
+}
+::-webkit-scrollbar-thumb{/*滚动条里面的小方块*/
+  background: #3275bf;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-track{/*滚动条轨道的样式*/
+  background: #ccc;
+  border-radius: 3px;
 }
